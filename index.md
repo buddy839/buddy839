@@ -1,4 +1,4 @@
-what is up reader this is uday sandeep website where i will update projects 
+what is up reader this is UDAY SANDEEP website where i will update projects 
 layout: default
 ---
 
