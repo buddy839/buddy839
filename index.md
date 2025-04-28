@@ -7,6 +7,28 @@ Introduction
 
 I am a recent graduate with a intreset in cyber domain also have certified cybersecurity professional with a strong foundation in both security operations and ethical hacking, holding CSP and CEH credentials. My expertise includes identifying vulnerabilities, securing networks, and conducting penetration testing to protect digital assets. I am passionate about proactive defense strategies, continuous learning, and leveraging my skills to help organizations strengthen their security posture. With a detail-oriented mindset and a problem-solving approach, I aim to contribute meaningfully to the field of cybersecurity.
 
+## Objective
+[]
+
+My journey in B.com computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst not soc but also interseted in cyber defense,attacking&foresnsics.
+
+## Skills
+
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Network Traffic Monitoring and Attack Detection | Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
+## Tools
+[Wireshark is a free and open-source packet analyzer. It is used for network troubleshooting, analysis, software and communications protocol development, and education.  
+ Nmap is used to discover hosts and services on a computer network by sending packets and analyzing the responses.
+ John the Ripper is a free password cracking software tool.one might ask when there are 600 tools why about this ones because this are the know and most used ones in 
+  security domain]
+
 # certicficate 
 
 [Link https://drive.google.com/file/d/1LWy68PowwN0S8jHvsfe5Pb2b90Zt-ZnP/view?usp=sharing](./another-page.html)..
