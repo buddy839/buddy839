@@ -1,8 +1,12 @@
-# Hello, WELCOME  I'm uday sundeep climber website 
-: 
+# Hello, WELCOME  I'm uday sundeep climber 
+: <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 ---
  
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+Introduction 
+
+I am a recent graduate with a intreset in cyber domain also have certified cybersecurity professional with a strong foundation in both security operations and ethical hacking, holding CSP and CEH credentials. My expertise includes identifying vulnerabilities, securing networks, and conducting penetration testing to protect digital assets. I am passionate about proactive defense strategies, continuous learning, and leveraging my skills to help organizations strengthen their security posture. With a detail-oriented mindset and a problem-solving approach, I aim to contribute meaningfully to the field of cybersecurity.
+
 # certicficate 
 
 [Link https://drive.google.com/file/d/1LWy68PowwN0S8jHvsfe5Pb2b90Zt-ZnP/view?usp=sharing](./another-page.html)..
