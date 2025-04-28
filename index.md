@@ -1,14 +1,11 @@
-what is up reader this is UDAY SANDEEP website where i will update projects 
-layout: default
+# Hello, WELCOME  I'm uday sundeep climber website 
+: 
 ---
+ 
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# certicficate 
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
-
-[Link https://drive.google.com/file/d/1LWy68PowwN0S8jHvsfe5Pb2b90Zt-ZnP/view?usp=sharing](./another-page.html).
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+[Link https://drive.google.com/file/d/1LWy68PowwN0S8jHvsfe5Pb2b90Zt-ZnP/view?usp=sharing](./another-page.html)..
 
 ## Header 2
 
