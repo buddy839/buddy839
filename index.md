@@ -4,11 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+[Link https://drive.google.com/file/d/1LWy68PowwN0S8jHvsfe5Pb2b90Zt-ZnP/view?usp=sharing](./another-page.html).
 
 # Header 1
 
@@ -92,9 +88,8 @@ end
   - level 2 item
 - level 1 item
 
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+### Small image of myself 
+![124](https://github.com/user-attachments/assets/73171f26-89e3-4c97-b083-db87ee3a6c03)
 
 ### Large image
 
